@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=37&duration=2800&pause=2000&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Dylan.+Welcome+to+my+Profile+%3A)" alt="Typing SVG" /></a>
+
+
 
 <!--
 **DylGaut/DylGaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
