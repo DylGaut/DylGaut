@@ -14,8 +14,8 @@ Methods include:
   - The Odin Project
   - Freecodecamp <br>
 
-🌱 I'm new to the coding community so I can't wait to meet new people here. <br>
-Feel free to reach out at anytime I'll always get back to you :) <br> <br>
+🌱 I'm new to the coding community so I can't wait to meet new people here. <br><br>
+💬 Feel free to reach out at anytime I'll always get back to you :) <br> <br>
 
 2023 Goals Include: <br>
 - Becoming fluent in JavaScript
