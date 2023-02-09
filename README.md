@@ -12,7 +12,23 @@
 Methods include:
   - 100 Devs with Leon Noel
   - The Odin Project
-  - Freecodecamp 
+  - Freecodecamp <br>
+
+🌱 I'm new to the coding community so I can't wait to meet new people here. <br>
+Feel free to reach out at anytime I'll always get back to you :) <br> <br>
+
+2023 Goals Include: <br>
+- Becoming fluent in JavaScript
+- Learning ReactJS
+- Completing Daily CodeWars for 90 days straight
+- Dabbling in other languages (MongoDB | Python | PHP)
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assets/nightdriving.gif" alt="Lofi Night Driving" /> 
+</p>
+
 
 
 <!--
