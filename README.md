@@ -5,23 +5,23 @@
 
 <img align='right' src="assets/DylGaut.png" width="350" alt="DylGaut's Dev Card" />
 
-<h2 align="center"> Self-taught Dev, passionate, and eager to make connections! </h2>
+<h2 align="center"> Aspiring Cybersecurity Analyst, passionate, and eager to make connections! </h2>
   
-  **I'm currently learning Javascript.** <br>
+  **I'm currently studying for Network+.** <br>
 
 Methods include:
-  - 100 Devs with Leon Noel
-  - The Odin Project
-  - Freecodecamp <br>
+  - Professor Messer
+  - Practice Tests
+  - ChatGPT for Tutoring <br>
 
-🌱 I'm new to the coding community so I can't wait to meet new people here. <br><br>
-💬 Feel free to reach out at anytime I'll always get back to you :) <br> <br>
+🌱 I'm always looking to learn new things. <br><br>
+💬 Feel free to reach out at anytime and I'll always get back to you :) <br> <br>
 
-2023 Goals Include: <br>
-- Becoming fluent in JavaScript
-- Learning ReactJS
-- Completing Daily CodeWars for 90 days straight
-- Dabbling in other languages (MongoDB | Python | PHP)
+2024 Goals Include: <br>
+- Becoming fluent in Python
+- Obtaining Network +
+- Obtaining Security +
+- Security & Networking projects
 
 <h2></h2><br>
 
