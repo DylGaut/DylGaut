@@ -19,7 +19,7 @@ Methods include:
 
 2024 Goals Include: <br>
 - Becoming fluent in Python
-- Obtaining Network +
+- (~~)Obtaining Network +(~~) - Complete!
 - Obtaining Security +
 - Security & Networking projects
 
