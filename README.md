@@ -7,7 +7,7 @@
 
 <h2 align="center"> Aspiring Cybersecurity Analyst, passionate, and eager to make connections! </h2>
   
-  **I'm currently studying for Network+.** <br>
+  **I'm currently studying for Security+.** <br>
 
 Methods include:
   - Professor Messer
